@@ -4,7 +4,7 @@ import java.util.*;
 
 class numberException extends Exception {
     public String toString() {
-        return "Error!Number is 0";
+        return "Error! Number is 0";
     }
 }
 

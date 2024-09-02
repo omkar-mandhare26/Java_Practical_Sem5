@@ -1,3 +1,6 @@
+
+package Practice;
+
 class classTest {
     int a;
 
